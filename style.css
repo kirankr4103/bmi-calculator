@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Calculator{
+    background-color: rgb(53, 61, 61);
+    height: 800px;
+    width: 100%;
+    
+}
+.nav-section{
+    background-color: rgb(50, 48, 48);
+}
+body{
+    margin: 0;
+    padding: 0; 
+ 
+   
+   
+}
+.icon img{
+    width: 100px;
+    height: 100px;
+   border-radius: 30px;
+   margin-top: 20px;
+   margin-left: 20px;
+   margin-bottom: 20px;
+}
+.body{
+    padding: 50px;
+}
+.calculation h5{
+  color: darkgoldenrod;
+}
+.height input{
+    width: 200px;
+}
+
+.age input{
+    width: 100px;
+}
+.weight input{
+    width: 170px;
+}
+.bmi h4{
+    color: beige;
+    font-weight: bolder;
+}
+.bmi p{
+
+ color: beige;
+    font-weight: bolder;
+}
+#height-indicator{
+    color: red;
+}
+#weight-indicator{
+    color: red;
+}
+#result{
+    color: darkgoldenrod;
+}
+.what-bmi{
+    color: aquamarine;
+}
+.what-bmi h1{
+    color: rgb(170, 180, 105);
+}
